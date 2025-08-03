@@ -1,0 +1,8 @@
+altair==5.5.0
+black==25.1.0
+matplotlib==3.10.5
+numpy==2.2.6
+pandas==2.3.1
+requests==2.32.4
+seaborn==0.13.2
+streamlit==1.47.1
